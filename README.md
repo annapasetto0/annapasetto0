@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Anna Pasetto
-I'm a Master's student in Digital Humanities and Digital Knowledge (https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the Alma Mater Studiorum – University of Bologna 🇮🇹  
+I'm a Master's student in Digital <a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge">Humanities and Digital Knowledge</a> at the Alma Mater Studiorum – University of Bologna 🇮🇹  
 I’m passionate about digital archives, semantic web and web development.  
 
 ## 🧠 Interests

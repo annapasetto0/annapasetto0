@@ -25,3 +25,8 @@ I’m passionate about digital archives, semantic web and web development.
 ## 🔧 Tech & Tools
 - 🕸️ HTML, CSS, JavaScript
 - 🗃️ RDF, SPARQL, IIIF, Linked Data
+
+## 🧪 Internship Experience
+- 🎓 **AdLab – Laboratorio di Accessibilità Digitale** ([link](https://site.unibo.it/adlab/it))  
+  *Academic year 2022/2023*  
+  Participated in a university internship focused on the **digitization and metadata creation** of books, contributing to accessibility-oriented digital projects.

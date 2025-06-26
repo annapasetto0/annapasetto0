@@ -35,21 +35,21 @@ I’m passionate about digital archives, semantic web and web development.
 
 **Data & Computational Thinking**
 - Computational Management of Data (<a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/467045">Computational Thinking and Programming</a> + <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/467046">Data Science</a>)
-- Knowledge Representation and Extraction
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/490896">Knowledge Representation and Extraction</a>
 
 **Web & Semantic Technologies**
-- Semantic Digital Libraries
-- Text Encoding and Semantic Representation
-- Scholarly Editing and Digital Textuality
-- Text Retrieval, Analysis and Mining
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/424786">Semantic Digital Libraries</a>
+- <a hfre="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/490900">Text Encoding and Semantic Representation</a>
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/424633"> Text Retrieval, Analysis and Mining</a>
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/454464">Information Modelling and Web Technologies</a>
 
 **Cultural Heritage & Digital Humanities**
-- Digital Heritage and Multimedia (Museology, Museography and Virtual Environments + Interaction Media Design)
-- Diplomatics of Contemporary Records
-- Knowledge Organization in Libraries and Archives
-- Archivistica Informatica
-- Information Modelling and Web Technologies
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/478835">Diplomatics of Contemporary Records</a>
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/490899">Knowledge Organization in Libraries and Archives</a>
+- <a href="https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/503378">Archivistica Informatica</a>
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/478833">Scholarly Editing and Digital Textuality</a>
+- Digital Heritage and Multimedia (<a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2022/454471">Museology, Museography and Virtual Environments</a> + <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2022/454470">Interaction Media Design</a>)
 
 **Legal & Strategic Studies**
-- Copyright Law
-- Business Strategy and Innovation in Cultural and Creative Industries
+- <a href="https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/424069">Copyright Law</a>
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2023/424650">Business Strategy and Innovation in Cultural and Creative Industries</a>

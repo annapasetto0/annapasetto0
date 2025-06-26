@@ -39,7 +39,7 @@ I’m passionate about digital archives, semantic web and web development.
 
 **Web & Semantic Technologies**
 - <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/424786">Semantic Digital Libraries</a>
-- <a hfre="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/490900">Text Encoding and Semantic Representation</a>
+- <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/490900">Text Encoding and Semantic Representation</a>
 - <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/424633"> Text Retrieval, Analysis and Mining</a>
 - <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/454464">Information Modelling and Web Technologies</a>
 

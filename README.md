@@ -34,7 +34,7 @@ I’m passionate about digital archives, semantic web and web development.
 ## 📚 Relevant Coursework
 
 **Data & Computational Thinking**
-- Computational Management of Data (Computational Thinking and Programming + Data Science)
+- Computational Management of Data (<a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/467045">Computational Thinking and Programming</a> + <a href="https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/467046">Data Science</a>)
 - Knowledge Representation and Extraction
 
 **Web & Semantic Technologies**
